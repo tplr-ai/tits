@@ -18,7 +18,7 @@ A short (~200 words) description of the issue being addressed and the proposed s
 ## Motivation
 
 The motivation section should clearly explain why the existing protocol specification is
-inadequate to address the problem that the TITs solves. This is critical for TITss that want to
+inadequate to address the problem that the TITs solves. This is critical for TITs that want to
 change the Templar protocol. It should clearly explain why the solution outlined in the TITs
 is beneficial to the Templar ecosystem.
 
@@ -36,7 +36,7 @@ on the existing system.
 
 ## Backwards Compatibility
 
-All TITss that introduce backward incompatibilities must include a section describing these
+All TITs that introduce backward incompatibilities must include a section describing these
 incompatibilities and their severity. The TITs must explain how the author proposes to deal with
 these incompatibilities. TITs submissions without a sufficient backward compatibility treatise
 may be rejected outright.
@@ -48,7 +48,7 @@ of the proposal. This implementation may be partial or fully complete.
 
 ## Security Considerations
 
-All TITss should consider the security implications of their proposals. This section should
+All TITs should consider the security implications of their proposals. This section should
 address potential attack vectors, vulnerabilities, and how the proposed changes affect the
 overall security of the Templar protocol.
 
