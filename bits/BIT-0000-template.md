@@ -1,15 +1,15 @@
-# BIT-0000: Title of BIT
+# TITs-0000: Title of TITs
 
-- **BIT Number:** 0000
-- **Title:** Title of the BIT
+- **TITs Number:** 0000
+- **Title:** Title of the TIT
 - **Author(s):** [Name(s) and contact information]
 - **Discussions-to:** [URL for discussion thread]
 - **Status:** Draft
-- **Type:** Core | Subtensor | Networking | Interface | Meta | Informational
+- **Type:** Core | Protocol | Miner | Validator | Meta | Informational
 - **Created:** [Date]
 - **Updated:** [Date]
-- **Requires:** [BIT number(s) if applicable]
-- **Replaces:** [BIT number(s) if applicable]
+- **Requires:** [TITs number(s) if applicable]
+- **Replaces:** [TITs number(s) if applicable]
 
 ## Abstract
 
@@ -18,9 +18,9 @@ A short (~200 words) description of the issue being addressed and the proposed s
 ## Motivation
 
 The motivation section should clearly explain why the existing protocol specification is
-inadequate to address the problem that the BIT solves. This is critical for BITs that want to
-change the Bittensor protocol. It should clearly explain why the solution outlined in the BIT
-is beneficial to the Bittensor ecosystem.
+inadequate to address the problem that the TITs solves. This is critical for TITss that want to
+change the Templar protocol. It should clearly explain why the solution outlined in the TITs
+is beneficial to the Templar ecosystem.
 
 ## Specification
 
@@ -36,9 +36,9 @@ on the existing system.
 
 ## Backwards Compatibility
 
-All BITs that introduce backward incompatibilities must include a section describing these
-incompatibilities and their severity. The BIT must explain how the author proposes to deal with
-these incompatibilities. BIT submissions without a sufficient backward compatibility treatise
+All TITss that introduce backward incompatibilities must include a section describing these
+incompatibilities and their severity. The TITs must explain how the author proposes to deal with
+these incompatibilities. TITs submissions without a sufficient backward compatibility treatise
 may be rejected outright.
 
 ## Reference Implementation (Optional)
@@ -48,9 +48,9 @@ of the proposal. This implementation may be partial or fully complete.
 
 ## Security Considerations
 
-All BITs should consider the security implications of their proposals. This section should
+All TITss should consider the security implications of their proposals. This section should
 address potential attack vectors, vulnerabilities, and how the proposed changes affect the
-overall security of the Bittensor protocol.
+overall security of the Templar protocol.
 
 ## Copyright
 
