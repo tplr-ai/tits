@@ -1,15 +1,15 @@
-# TITs-0000: Title of TITs
+# TIPs-0000: Title of TIPs
 
-- **TITs Number:** 0000
-- **Title:** Title of the TIT
+- **TIPs Number:** 0000
+- **Title:** Title of the TIP
 - **Author(s):** [Name(s) and contact information]
 - **Discussions-to:** [URL for discussion thread]
 - **Status:** Draft
 - **Type:** Core | Protocol | Miner | Validator | Meta | Informational
 - **Created:** [Date]
 - **Updated:** [Date]
-- **Requires:** [TITs number(s) if applicable]
-- **Replaces:** [TITs number(s) if applicable]
+- **Requires:** [TIPs number(s) if applicable]
+- **Replaces:** [TIPs number(s) if applicable]
 
 ## Abstract
 
@@ -18,8 +18,8 @@ A short (~200 words) description of the issue being addressed and the proposed s
 ## Motivation
 
 The motivation section should clearly explain why the existing protocol specification is
-inadequate to address the problem that the TITs solves. This is critical for TITs that want to
-change the Templar protocol. It should clearly explain why the solution outlined in the TITs
+inadequate to address the problem that the TIPs solves. This is critical for TIPs that want to
+change the Templar protocol. It should clearly explain why the solution outlined in the TIPs
 is beneficial to the Templar ecosystem.
 
 ## Specification
@@ -36,9 +36,9 @@ on the existing system.
 
 ## Backwards Compatibility
 
-All TITs that introduce backward incompatibilities must include a section describing these
-incompatibilities and their severity. The TITs must explain how the author proposes to deal with
-these incompatibilities. TITs submissions without a sufficient backward compatibility treatise
+All TIPs that introduce backward incompatibilities must include a section describing these
+incompatibilities and their severity. The TIPs must explain how the author proposes to deal with
+these incompatibilities. TIPs submissions without a sufficient backward compatibility treatise
 may be rejected outright.
 
 ## Reference Implementation (Optional)
@@ -48,7 +48,7 @@ of the proposal. This implementation may be partial or fully complete.
 
 ## Security Considerations
 
-All TITs should consider the security implications of their proposals. This section should
+All TIPs should consider the security implications of their proposals. This section should
 address potential attack vectors, vulnerabilities, and how the proposed changes affect the
 overall security of the Templar protocol.
 
